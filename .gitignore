@@ -1,0 +1,6 @@
+*.pkl
+*.pyc
+*.npy
+__pycache__
+.idea
+*.vec
